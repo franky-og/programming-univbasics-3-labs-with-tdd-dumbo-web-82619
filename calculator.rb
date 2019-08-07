@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = aNum
+first_number = 2
